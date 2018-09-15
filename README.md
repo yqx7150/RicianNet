@@ -11,3 +11,7 @@ Date : 09/2018
 Version : 1.0   
 The code and the algorithm are for non-comercial use only.   
 Copyright 2018, Department of Electronic Information Engineering, Nanchang University.   
+
+
+## The schematic flowchart of RicianNet model.png
+![repeat-MDAEP](/result/The schematic flowchart of RicianNet model.png)
