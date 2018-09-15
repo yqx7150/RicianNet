@@ -14,4 +14,4 @@ Copyright 2018, Department of Electronic Information Engineering, Nanchang Unive
 
 
 ## The flowchart of MDAEP for SISR
-![repeat-MDAEP](/result/The schematic flowchart of RicianNet model.png)
+![repeat-MDAEP](https://github.com/yqx7150/RicianNet/blob/master/result/The%20schematic%20flowchart%20of%20RicianNet%20model.png)
