@@ -4,7 +4,7 @@ RicianNet for MRI denoising
 #reader should unzip the file named matconvnet-1.0-beta24.rar  
 #your computer should have a successful matcaffe environment
 
-The Code is created based on the method described in the following paper:   
+The Code is created based on the method described in the following papers:   
 [1] Progressively distribution-based Rician noise removal for magnetic resonance imaging, ISMRM 2018, Oral.     
 Authors: Q. Liu, S. Li, J. Lv, D. Liang   
 [2] MRI Denoising using Progressively Distribution-based Neural Network, Magnetic Resonance Imaging, 2020.   
