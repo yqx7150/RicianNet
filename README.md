@@ -25,7 +25,7 @@ The Conv and ReLU layers are denoted as "C"and"R",respectively.The ResNet and Re
 ## Network architecture of RicianNet
 <div align=center><img src="./result/Network%20architecture.png"/></div> 
 
-## Visual quality comparison on a T1-weighted Brain1 image corrupted with Rician noise level of 5%. 
+## Visual quality comparison on a T1-weighted Brain1 image corrupted with Rician noise level of 5%.     
 <div align=center><img src="./result/Noiselevel5.png"/></div> 
     
 From left to right: ground truth image, Rician noisy image and images denoised by NLM, UNLM, BM3D-VST and RicianNet. The corresponding residual images are listed at the second row.
