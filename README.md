@@ -25,6 +25,12 @@ The Conv and ReLU layers are denoted as "C"and"R",respectively.The ResNet and Re
 ## Network architecture of RicianNet
 ![repeat-MDAEP](https://github.com/yqx7150/RicianNet/blob/master/result/Network%20architecture.png)
 
+## Visual quality comparison on a T1-weighted Brain1 image corrupted with Rician noise level of 5%. 
+ ![repeat-MDAEP](https://github.com/yqx7150/RicianNet/blob/master/result/Noiselevel5%.png)
+    
+From left to right: ground truth image, Rician noisy image and images denoised by NLM, UNLM, BM3D-VST and RicianNet. The corresponding residual images are listed at the second row.
+
+
 ## Other Related Projects
   * Variable augmented neural network for decolorization and multi-exposure fusion [<font size=5>**[Paper]**</font>](https://www.sciencedirect.com/science/article/abs/pii/S1566253517305298)   [<font size=5>**[Code]**</font>](https://github.com/yqx7150/DecolorNet_FusionNet_code)   [<font size=5>**[Slide]**</font>](https://github.com/yqx7150/EDAEPRec/tree/master/Slide)
   
