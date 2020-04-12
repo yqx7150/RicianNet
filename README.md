@@ -23,7 +23,7 @@ Copyright 2018, Department of Electronic Information Engineering, Nanchang Unive
 The Conv and ReLU layers are denoted as "C"and"R",respectively.The ResNet and ResNet are denoted as "Res" and "ResB",respectively.
 
 ## Network architecture of RicianNet
-![repeat-MDAEP](https://github.com/yqx7150/RicianNet/blob/master/result/The%20schematic%20flowchart%20of%20RicianNet%20model.png)
+![repeat-MDAEP](https://github.com/yqx7150/RicianNet/blob/master/result/Network architecture.png)
 
 
 ## Other Related Projects
