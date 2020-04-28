@@ -9,6 +9,8 @@ The Code is created based on the method described in the following papers:
 Authors: Q. Liu, S. Li, J. Lv, D. Liang   
 [2] MRI Denoising using Progressively Distribution-based Neural Network, Magnetic Resonance Imaging, 2020.   
 Authors: S. Li, J. Zhou, D. Liang, Q. Liu  
+https://doi.org/10.1016/j.mri.2020.04.006   
+
 Date : 09/2018   
 Version : 1.0   
 
